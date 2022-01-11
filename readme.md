@@ -4,9 +4,7 @@
 
 - 🎯 2022 Goal - Don't Be Toxic
 
-#### Connect With Me
-
-<a href="https://discord.brine-codes.repl.co/discord"><img align="left" src="https://cdn.discordapp.com/emojis/921371625788698654.png?size=96" /></a>
+#### Connect With Me <a href="https://discord.brine-codes.repl.co/discord"><img align="left" src="https://cdn.discordapp.com/emojis/921371625788698654.png?size=32" /></a>
 
 <br/><br/>
 
