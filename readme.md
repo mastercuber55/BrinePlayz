@@ -1,31 +1,30 @@
-### Hi, I'm Brine! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<p align="center">
+<a href="" target="blank"><img align="center" src="" alt="" height="20" width="20" /></a>&nbsp;
+<a href="" target="blank"><img align="center" src="" alt="" height="20" width="20" /></a>&nbsp;
+</p>
 
-<h3>I Am A <span>Discord Bot</span> Developer</h3>
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-- 🎯 2022 Goal - Don't Be Toxic
+### 🤵 About Me:
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently working on my website 
+- 🤔 I use daily ```.java```,``` .py```, ```.sql```
+- 🌱 I’m currently learning game development.
+- 💬 Talk to me about anything you would like.
+- 😄 Pronouns: He/Him
 
-#### Connect With Me <a href="https://discord.brine-codes.repl.co/discord"><img align="left" src="https://cdn.discordapp.com/emojis/921371625788698654.png?size=32" /></a>
-
-<br/><br/>
+<p align="center">
+<img src="" alt="javascript" width="55" height="55"/> 
+<img src="" alt="ejs" width="55" height="60"/> 
+</p>
 
 ---
-
-### What I work with
-
-<p>I Use These Stuff</p>
-
-<h4>Stuff</h4>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrinePlayz&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
-</p>
-<p>
-  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/Ejs-1c1c1c?&style=flat-square" />
-  <img align="left" src="https://img.shields.io/badge/Html-1c1c1c?&style=flat-square&logo=Html" />
-  <img align="left" src="https://img.shields.io/badge/Express-1c1c1c?&style=flat-square" />
-  <img align="left" src="https://img.shields.io/badge/Discord.js-1c1c1c?&style=flat-square" />
-</p>
-  
-<br/><br/>
-
+### 🐱My Github stats:
+![Cube Nerd's Github Stats](https://github-readme-stats.vercel.app/api?username=mastercuber55&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ---
+
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+----
