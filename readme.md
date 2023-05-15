@@ -10,13 +10,8 @@
 - 🤔 I use ```.cpp```,```.js```,``` .ejs```, ```.css```
 - 🌱 Creating a game named InfiWorlds2
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" alt="javascript" width="55" height="55"/> 
-<img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" alt="ejs" width="55" height="60"/> 
-</p>
-
 ---
 ### 🐱My Github stats:
 ![Cube Nerd's Github Stats](https://github-readme-stats.vercel.app/api?username=mastercuber55&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats))
+[![Top Langs]([[https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercuber55&layout=compact&text_color=daf7dc&bg_color=black)](https://github.com/anuraghazra/github-readme-stats))
 ---
